@@ -25,7 +25,7 @@ Transaction Management:
 - Users can perform deposit, withdrawal, and view total balances for all clients using functions like Deposit, Withdraw, and TotalBalances.
 
 
-User Management (Optional):
+User Management :
 - The program has functionalities for managing users (assumed to be administrators) with different permission levels. However, the provided code snippet only shows functions for loading user data and displaying a user list.
 
 
